@@ -1,5 +1,4 @@
-public class hello()
+public class hello
+nihao
 
-1111
-
-222
+aaaa
